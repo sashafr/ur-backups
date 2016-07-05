@@ -1,3 +1,3 @@
 # ur-backups
 
-Nightly public back-up of <a href="www.ur-online.org">UrOnline data</a> and scripts used to generate them.
+Nightly public back-up of [UrOnline](http://www.ur-online.org) data and scripts used to generate them.
